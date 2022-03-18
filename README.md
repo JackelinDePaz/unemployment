@@ -29,7 +29,6 @@ The repository contains all the material for the course:
 * `exam` folder - a three-hour exam and its solutions
 * `figures` folder - figures used in the solutions to the quizzes and problem sets
 * `references` folder - no textbook is required for this course, but the articles and book chapters in the folder provide useful background material for the lectures (the articles and books are discussed at various points in the lectures)
-* `pdf` folder - PDF version of the quizzes, problem sets, and their solutions (for reference)
 
 ## Software
 
