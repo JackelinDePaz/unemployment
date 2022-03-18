@@ -7,7 +7,7 @@ This repository contains material for a half-semester graduate course on unemplo
 The course covers research topics related to unemployment. It reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
 
 * Why do we care about unemployment?
-* Why does unemployment exist? 
+* What causes unemployment? 
 * Why does unemployment vary across countries and over time? 
 * What is the socially optimal level of unemployment? 
 * How should policies respond to unemployment spikes during recessions?
@@ -16,7 +16,7 @@ The course is hosted at https://www.pascalmichaillat.org/t1.html.
 
 ## Organization
 
-This is a flipped course. Students watch lecture videos at home, and class time is used to discuss the lecture material and put it to practice through quizzes. All the lecture videos are permanently available at https://www.pascalmichaillat.org/t1.html. Each quiz is composed of several multiple-choice questions. In class, students tackle the multiple-choice questions, and the multiple-choice questions are then solved. Students must also go over readings and complete 3 problem sets at home. Finally, the course concludes with a 3-hour in-class exam.
+This is a flipped course. Students watch lecture videos at home, and class time is used to discuss lecture material and put it to practice through quizzes. The lecture videos are permanently available at https://www.pascalmichaillat.org/t1.html. Each quiz is composed of several multiple-choice questions, which students tackle in class. At home, students must also go over readings and complete 3 problem sets. The course concludes with a 3-hour in-class exam.
 
 ## Material
 
