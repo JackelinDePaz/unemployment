@@ -29,13 +29,12 @@ The repository contains all the material for the course:
 * `exam` folder - a three-hour exam and its solutions
 * `figures` folder - figures used in the solutions to the quizzes and problem sets
 * `references` folder - no textbook is required for this course, but the articles and book chapters in the folder provide useful background material for the lectures (the articles and books are discussed at various points in the lectures)
-* `pdf` folder - PDF version of the quizzes, problem sets, and their solutions (for reference)
 
 ## Software
 
-The teaching material is written in Markdown. The Markdown files were produced on a Mac (macOS Monterey 12.2.1) with [Sublime Text](https://www.sublimetext.com) (build 4126) using the following dedicated package: [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing), [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview), [LiveReload](https://packagecontrol.io/packages/LiveReload).
+The teaching material is written in Markdown. The Markdown files were produced on a Mac (macOS Monterey 12.2.1) with [Sublime Text](https://www.sublimetext.com) (build 4126) using the following package: [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing), [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview), [LiveReload](https://packagecontrol.io/packages/LiveReload).
 
-The [following setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders math and figures and tables in Markdown.
+This [Sublime Test setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders math and figures and tables in Markdown.
 
 ## Author
 
