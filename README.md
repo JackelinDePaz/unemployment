@@ -35,7 +35,7 @@ The repository contains all the material for the course:
 
 The teaching material is written in Markdown. The Markdown files were produced on a Mac (macOS Monterey 12.2.1) with [Sublime Text](https://www.sublimetext.com) (build 4126) using the following dedicated package: [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing), [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview), [LiveReload](https://packagecontrol.io/packages/LiveReload).
 
-The [following setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders LaTeX math and figures and tables.
+The [following setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders math and figures and tables in Markdown.
 
 ## Author
 
