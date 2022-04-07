@@ -36,7 +36,7 @@ The teaching material is written in Markdown and rendered in PDF. The files were
 
 ## Author
 
-The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 at [Brown University](https://www.brown.edu).
+The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 and ECON2800 at [Brown University](https://www.brown.edu).
 
 ## License
 
