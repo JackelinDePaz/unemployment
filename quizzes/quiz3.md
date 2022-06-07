@@ -53,8 +53,8 @@ Consider a matching model of unemployment with labor force of size $H$, a recrui
 
 The recruiter-producer ratio derived in Question D has the following properties:
 
-1. It is increasing in $\theta$ and positive on $\mathbb{R}_+$, with $\lim_{\theta\to \infty}\tau(\theta) = \infty$.
-2. It is decreasing in $\theta$ and positive on $\mathbb{R}_+$, with $\lim_{\theta\to \infty}\tau(\theta) = 0$.
+1. It is increasing in $\theta$ and positive on $R_+$, with $\lim_{\theta\to \infty}\tau(\theta) = \infty$.
+2. It is decreasing in $\theta$ and positive on $R_+$, with $\lim_{\theta\to \infty}\tau(\theta) = 0$.
 3. It is increasing in $\theta$ and positive on $[0, rs]$, with $\lim_{\theta\to rs}\tau(\theta) = \infty$.
 4. It is increasing in $\theta$ and positive on $[0, 1/rs]$, with $\lim_{\theta\to 1/rs}\tau(\theta) = \infty$.
 5. It is decreasing in $\theta$ and positive on $[0, rs]$, with $\lim_{\theta\to rs}\tau(\theta) = 0$.
