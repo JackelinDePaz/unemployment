@@ -32,9 +32,9 @@ The repository contains all the material for the course:
 
 ## Software
 
-The teaching material is written in Markdown and rendered in PDF. The files were produced on a Mac (macOS Monterey 12.2.1) with [Sublime Text](https://www.sublimetext.com) (build 4126) using the following packages: [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing), [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview), [LiveReload](https://packagecontrol.io/packages/LiveReload). This [Sublime Text setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders math and figures and tables in Markdown.
+The teaching material is written in Markdown and rendered in PDF. The files were produced on a Mac (macOS Monterey 12.2.1) with [Sublime Text](https://www.sublimetext.com) (build 4126) using the following packages: [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing), [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview), [LiveReload](https://packagecontrol.io/packages/LiveReload). This [Sublime Text setup](https://rowannicholls.github.io/sublime_text/markdown.html) nicely renders math, figures, and tables in Markdown.
 
-## Author
+## Authors
 
 The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 and ECON2800 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets.
 
