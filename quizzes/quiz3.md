@@ -7,7 +7,7 @@ Brown University
 
 ### Question A
 
-In the matching model, the labor supply is increasing in labor market tightness because
+Why is the labor supply increasing in labor market tightness in the matching model?
 
 1. A higher tightness makes it more expensive to hire producers.
 2. A higher tightness makes it cheaper to hire producers.
@@ -29,13 +29,13 @@ If the labor-force participation rate suddenly increases, what necessarily happe
 
 ### Question C
 
-In the matching model, an increase in the job-separation rate would
+In the matching model, what would an increase in the job-separation rate do?
 
-1. Have no effect on the labor-supply curve
-2. Shift the labor-supply curve inward
-3. Shift the labor-supply curve outward
-4. Make the matching function more effective
-5. Make the matching function less effective
+1. It would have no effect on the labor-supply curve.
+2. It would shift the labor-supply curve inward.
+3. It would shift the labor-supply curve outward.
+4. It would make the matching function more effective.
+5. It would make the matching function less effective.
 6. None of the above.
 
 ### Question D
