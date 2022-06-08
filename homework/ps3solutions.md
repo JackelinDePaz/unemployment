@@ -173,14 +173,14 @@ The main policy implication is that the policies that effectively reduce unemplo
 
 **Consider an economy with a mass 1 of participants in the labor force. The Beveridge curve takes a very simple form: $v(u) = \omega/u$, where $\omega>0$ governs the location of the Beveridge curve. Each vacancy requires the attention of a full-time worker. Finally, all production takes place in firms and there is no home production at all. As a result, social welfare is determined by the number of producers in firms.**
 
-1. **Compute the socially efficient labor market tightness $\theta^{*}$. How does $\theta^{*}$ depend on the parameter $\omega$?**
+1. **Compute the socially efficient labor market tightness $\theta^{\star}$. How does $\theta^{\star}$ depend on the parameter $\omega$?**
 
 There are two approaches here. 
 
 The first approach directly use the sufficient-statistic formula developed by [Michaillat & Saez (2021)](https://doi.org/10.1016/j.pubecp.2021.100009) and discussed in lecture. 
 The recruiting cost, the number of recruiters allocated to each vacancy, is $\kappa=1$. The social value of nonwork is equal to $\zeta = 0$ here, because there is no home production at all. The elasticity of the Beveridge curve is just $\epsilon = 1$ here. Therefore, the efficient labor-market tightness satisfies
 
-$$\theta^{*} = \frac{1-\zeta}{\epsilon\kappa} = 1.$$
+$$\theta^{\star} = \frac{1-\zeta}{\epsilon\kappa} = 1.$$
 
 The efficient tightness does not depend on $\omega$.
 
@@ -192,26 +192,26 @@ subject to the Beveridge curve:
 
 $$v \cdot u = \omega.$$
 
-The maximization problem is entirely symmetric in $u$ and $v$ so the optimal  $u$ and $v$ must be the same: $u^{*} = v^{*}$. Accordingly the optimal tightness is one:
+The maximization problem is entirely symmetric in $u$ and $v$ so the optimal  $u$ and $v$ must be the same: $u^{\star} = v^{\star}$. Accordingly the optimal tightness is one:
 
-$$\theta^{*} = v^{*}/u^{*} = 1.$$
+$$\theta^{\star} = v^{\star}/u^{\star} = 1.$$
 
 
-2. **Compute the socially efficient unemployment rate $u^{*}$ as a function of the actual unemployment and vacancy rates, $u$ and $v$.**
+2. **Compute the socially efficient unemployment rate $u^{\star}$ as a function of the actual unemployment and vacancy rates, $u$ and $v$.**
 
-Since $u^{*} = v^{*}$, the Beveridge curve imposes 
+Since $u^{\star} = v^{\star}$, the Beveridge curve imposes 
 
-$$u^{*} = \sqrt{\omega}.$$
+$$u^{\star} = \sqrt{\omega}.$$
 
 In practice, $\omega$ is unobserved. However, we can observe $u$ and $v$. Moreover, $u$, $v$, and $\omega$ are linked through the Beveridge curve: $v \cdot u = \omega$. Replacing $\omega$ with $v \cdot u$ in the equation above gives
 
-$$u^{*} = \sqrt{v \cdot u}.$$
+$$u^{\star} = \sqrt{v \cdot u}.$$
 
 3. **Using the formulas derived in Questions 1 and 2, compute the efficient tightness, efficient unemployment rate, and unemployment gap in the United States in December 2021. What are the policy implications of your results?**
 
 In December 2021 in the United States the [unemployment rate](https://fred.stlouisfed.org/series/UNRATE) was 3.9% while the [vacancy rate](https://fred.stlouisfed.org/series/JTSJOR) was 6.8%. Accordingly, the implied efficient unemployment rate, tightness, and unemployment gap are:
 
-| | $u^{*}$| $\theta^{*}$| $u^{gap} = u - u^{*}$|
+| | $u^{\star}$| $\theta^{\star}$| $u^{gap} = u - u^{\star}$|
 |--|:--:|:--:|:--:|
 |December, 2021 | 5.2 | 1 | -1.2 |
 
