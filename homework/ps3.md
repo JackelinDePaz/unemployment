@@ -25,7 +25,7 @@ Consider a matching model with a labor force of size $1$. The matching function 
 
 Consider an economy with a mass 1 of participants in the labor force. The Beveridge curve takes a very simple form: $v(u) = \omega/u$, where $\omega>0$ governs the location of the Beveridge curve. Each vacancy requires the attention of a full-time worker. Finally, all production takes place in firms and there is no home production at all. As a result, social welfare is determined by the number of producers in firms.
 
-1. Compute the socially efficient labor maket tightness $\theta^*$. How does $\theta^*$ depend on the parameter $\omega$?
-2. Compute the socially efficient unemployment rate $u^*$ as a function of the actual unemployment and vacancy rates, $u$ and $v$.
+1. Compute the socially efficient labor maket tightness $\theta^{*}$. How does $\theta^{*}$ depend on the parameter $\omega$?
+2. Compute the socially efficient unemployment rate $u^{*}$ as a function of the actual unemployment and vacancy rates, $u$ and $v$.
 3. Using the formulas derived in Questions 1 and 2, compute the efficient tightness, efficient unemployment rate, and unemployment gap in the United States in December 2021. What are the policy implications of your results?
 

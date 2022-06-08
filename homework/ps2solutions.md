@@ -105,7 +105,7 @@ The left-hand side is increasing from 0 to $\infty$ when $\theta$ increases from
 
 5. **Using the equation that you have just obtained, compute the elasticity of tightness with respect to the minimum wage, $\epsilon^{\theta}_w$. Is the elasticity positive or negative? Discuss your finding in light of the empirical literature on the minimum wage.**
 
-First lets work out a few useful elasticities using the tricks for working with elasticities from [lecture video 50](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b113df2b-9816-4f26-a999-ad50014e6c74). 
+First lets work out a few useful elasticities using the tricks for working with elasticities from [lecture video 50](https://www.pascalmichaillat.org/v50.html). 
 
 Using the fact that the elasticity of $g(x) = a x^{\alpha}$ is $\epsilon^g_x = \alpha$, we find
 
@@ -216,27 +216,27 @@ $$\mathcal{H}(t) = a N(t)^{\alpha} - w L(t) + \lambda(t)\left[\frac{q}{r}\left[L
 
 2. **Write down the optimality conditions for the firm's problem, and use them to derive the differential equation governing the optimal number of producers. The equation should be a first-order nonlinear differential equation involving $\dot{N}(t)$, $N(t)$, and parameters.**
 
-The optimality conditions are
+The first optimality condition is
 
-$$\frac{\partial \mathcal{H}(t)}{\partial N(t)} = a \alpha N(t)^{\alpha-1} - \frac{q}{r}\lambda(t) = 0 \tag{1}$$
+$$\frac{\partial \mathcal{H}(t)}{\partial N(t)} = a \alpha N(t)^{\alpha-1} - \frac{q}{r}\lambda(t) = 0.$$
 
-and 
+The second optimality condition is 
 
-$$\frac{\partial \mathcal{H}(t)}{\partial L(t)} = -w + \left(\frac{q-rs}{r}\right)\lambda(t) = \delta \lambda(t) - \dot{\lambda}(t).\tag{2}$$
+$$\frac{\partial \mathcal{H}(t)}{\partial L(t)} = -w + \left(\frac{q-rs}{r}\right)\lambda(t) = \delta \lambda(t) - \dot{\lambda}(t).$$
 
-The optimal strategy must also satisfy the following transversality condition:
+The optimal strategy must also satisfy a transversality condition:
 
 $$\lim_{t\rightarrow \infty}e^{-\delta t} \lambda(t)L(t) = 0. $$
 
-Taking logs of (1), we obtain 
+Taking the log of the first optimality condition, we obtain 
 
 $$\ln a+\ln \alpha + (\alpha-1)\ln N(t) = \ln q - \ln r + \ln \lambda(t).$$
 
-Then taking time derivatives, we get
+Then taking the time derivative, we get
 
 $$(\alpha-1)\frac{\dot N(t)}{N(t)} = \frac{\dot \lambda(t)}{\lambda(t)}.$$
 
-Rearranging (2), we find
+Rearranging the second optimality condition, we find
 
 $$\frac{w}{\lambda(t)} + \left(\frac{r(s+\delta)-q}{r}\right)= \frac{\dot \lambda(t)}{\lambda(t)}.$$
 
@@ -244,7 +244,7 @@ Combining the expressions above, we find
 
 $$(\alpha-1)\frac{\dot N(t)}{N(t)} = \frac{w}{\lambda(t)} + \left(\frac{r(s+\delta)-q}{r}\right).$$
 
-Finally, using (1) to substitute $\lambda(t)$ out of the equation, we obtain
+Finally, using again the first optimality condition to substitute $\lambda(t)$ out of the equation, we obtain
 
 $$(\alpha-1)\frac{\dot N(t)}{N(t)} = \frac{wq}{ra\alpha}N(t)^{1-\alpha}+ \left(\frac{r(s+\delta)-q}{r}\right).$$
 
@@ -255,13 +255,13 @@ $$(1-\alpha)\frac{r}{q} MPL(N) \frac{\dot N(t)}{N(t)} = \left(\frac{q-r(s+\delta
 
 3. **Compute the critical point of the dynamical system composed of the differential equations governing the evolution of $L(t)$ and $N(t)$ over time. How does the critical point relate to the labor demand computed in lecture? Under which conditions do they overlap?**
 
-The dynamical system governing the evolution of $L(t)$ and $N(t)$ is composed of two differential equations. The first is
+The dynamical system governing the evolution of $L(t)$ and $N(t)$ is composed of two differential equations. The first differential equation is
 
-$$\dot{L}(t) = \frac{q}{r}\left[L(t) - N(t)\right] - sL(t) \tag{3},$$
+$$\dot{L}(t) = \frac{q}{r}\left[L(t) - N(t)\right] - sL(t).$$
 
-and the second is
+The second differential equation is
 
-$$(1-\alpha)\dot{N}(t) = \left(\frac{q-r(s+\delta)}{r}\right)N(t)- \frac{wq}{ra\alpha}N(t)^{2-\alpha}. \tag{4}$$
+$$(1-\alpha)\dot{N}(t) = \left(\frac{q-r(s+\delta)}{r}\right)N(t)- \frac{wq}{ra\alpha}N(t)^{2-\alpha}.$$
 
 The first nullcline is $\dot{L} = 0$, which imposes
 
@@ -269,31 +269,31 @@ $$ 0 = \frac{q}{r}\left[L(t) - N(t)\right] - sL(t),$$
 
 or equivalently
 
-$$N = \left(1-\frac{sr}{q}\right) L \tag{5}.$$
+$$N = \left(1-\frac{sr}{q}\right) L.$$
 
 The second nullcline is $\dot{N} = 0$, which imposes
 
-$$MPL(N) = \left(\frac{q}{q-r(s+\delta)}\right) w  \tag{6}.$$
+$$MPL(N) = \left(\frac{q}{q-r(s+\delta)}\right) w.$$
 
 Notice this means that the nullcline for $N$ is just a horizontal line in the $(L,N)$ plane. 
 
-The critical point of the system is where the nullclines cross, $\dot N(t)=\dot L(t) = 0$. From $(6)$, we directly find the value of $N$ at the critical point
+The critical point of the system is where the nullclines cross, $\dot N(t)=\dot L(t) = 0$. From the $N$-nullcline, we directly find the value of $N$ at the critical point:
 
-$$N = \left(\frac{q-r(s+\delta)}{q}\cdot \frac{a\alpha}{w} \right)^{\frac{1}{1-\alpha}}.\tag{7}$$
+$$N = \left(\frac{q-r(s+\delta)}{q}\cdot \frac{a\alpha}{w} \right)^{\frac{1}{1-\alpha}}.$$
 
-Now plugging the value of $N$ into the expression from (5), we obtain the value of employment $L$ at the critical point:
+Now plugging the value of $N$ into the expression from the $L$-nullcline, we obtain the value of employment $L$ at the critical point:
 
-$$L = \frac{q}{q-rs}\left[\frac{q-r(s+\delta)}{q}\cdot \frac{a\alpha}{w} \right]^{\frac{1}{1-\alpha}}. \tag{8}$$
+$$L = \frac{q}{q-rs}\left[\frac{q-r(s+\delta)}{q}\cdot \frac{a\alpha}{w} \right]^{\frac{1}{1-\alpha}}.$$
 
-The labor demand computed in the lecture is
+The labor demand computed in [lecture video 23](https://www.pascalmichaillat.org/v23.html) is
 
-$$L^d = \left[\frac{a\alpha}{w} \cdot [1+\tau]^{-\alpha}\right]^{\frac{1}{1-\alpha}},\tag{9}$$
+$$L^d = \left[\frac{a\alpha}{w} \cdot [1+\tau]^{-\alpha}\right]^{\frac{1}{1-\alpha}},$$
 
-where
+where $\tau$ is the recruiter-producer ratio, computed in [lecture video 19](https://www.pascalmichaillat.org/v19.html):
 
 $$\tau = \frac{rs}{q-rs} \Rightarrow 1+\tau = \frac{q}{q-rs}.$$
 
-Notice the two expressions (8) and (9) are very similar. The only difference comes from the discounting of future periods. If $\delta=0$, that is if there is no discounting, then (8) becomes
+Notice that the two expressions are very similar. The only difference comes from the discounting of future periods. If $\delta=0$, that is if there is no discounting, then employment at the critical point becomes
 
 $$L = \frac{q}{q-rs}\left[\frac{q-rs}{q}\cdot \frac{a\alpha}{w}\right]^{\frac{1}{1-\alpha}} = [1+\tau]\left(\frac{a\alpha}{w}\cdot \frac{1}{1+\tau}\right)^{\frac{1}{1-\alpha}}.$$
 
@@ -301,13 +301,25 @@ By pulling the $[1+\tau]$ into the term to the $\frac{1}{1-\alpha}$ power yields
 
 $$L = \left(\frac{a\alpha}{w} \cdot [1+\tau]^{-\alpha}\right)^{\frac{1}{1-\alpha}} = L^d.$$
 
-So the critical point overlaps with the labor demand expression from the lectures when the firm does not discount the future (that is, when interest rates are close to zero).
+So the critical point overlaps with the labor-demand expression when the firm does not discount the future.
 
 4. **Plot the phase diagram describing the evolution of employment in the firm. (The phase diagram should have $L(t)$ on the x-axis and $N(t)$ on the y-axis.) Does the phase diagram represent a sink, source, or saddle? Display the trajectory of employment for a given initial condition.**
 
-The $N$-nullcline is a horizontal line satisfying (7). The $L$-nullcline is a line satisfying (5), which is an upward-sloping line in the $(L, N)$ plane because $rs<q$. 
+The $N$-nullcline is a horizontal line satisfying
 
-Differentiating (3) with respect to $N$ gives
+$$N = \left(\frac{q-r(s+\delta)}{q}\cdot \frac{a\alpha}{w} \right)^{\frac{1}{1-\alpha}}.$$
+
+The $L$-nullcline is a line satisfying
+
+$$N = \left(1-\frac{sr}{q}\right) L,$$
+
+which is an upward-sloping line in the $(L, N)$ plane because $rs<q$. 
+
+Differentiating the differential equation
+
+$$\dot{L}(t) = \frac{q}{r}\left[L(t) - N(t)\right] - sL(t).$$
+
+with respect to $N$ gives
 
 $$\frac{\partial \dot L(t)}{\partial N(t)} = -\frac{q}{r} <0$$
 

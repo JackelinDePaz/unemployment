@@ -137,9 +137,7 @@ $$ v^{\prime\prime}(u) = \frac{\eta}{(1-\eta)^2(1-u)^2 u^2} \left[\frac{s(1-u)}{
 
 The implication is that $v(u)$ is convex.
 
-The figure below represent the Beveridge curve in a Beveridge diagram with (unemployment is on the x-axis and vacancies are on the y-axis.)
-
-<iframe src="https://www.desmos.com/calculator/i02iqv7gkj" width="100%" style="min-height:400px"></iframe>
+This [interactive figure](https://www.desmos.com/calculator/i02iqv7gkj) represents the Beveridge curve in a Beveridge diagram with (unemployment is on the x-axis and vacancies are on the y-axis.)
 
 3. **Compute the elasticity $d \ln(v)/d \ln(u)$ of the Beveridge curve. What is a plausible value for the elasticity in the United States?**
 
