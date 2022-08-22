@@ -40,7 +40,7 @@ The repository contains all the material for the course:
 + `readings` folder - articles and book chapters assigned as reading
 + `quizzes` folder - 9 one-hour quizzes and their solutions
 + `homework` folder - 3 problem sets and their solutions
-+ `exam` folder - a three-hour exam and its solution
++ `exam` folder - a three-hour exam and its solutions
 + `figures` folder - figures used in the solutions to the quizzes and problem sets
 
 ## License
