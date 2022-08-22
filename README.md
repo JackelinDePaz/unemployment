@@ -1,6 +1,6 @@
 # Unemployment: Models and Policies
 
-This repository contains material for a half-semester graduate course on unemployment. The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 and ECON2800 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets and exam.
+This repository contains material for a half-semester graduate course on unemployment. The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets and exam.
 
 ## Course webpage
 
