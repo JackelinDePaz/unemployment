@@ -12,7 +12,9 @@ The course is hosted at https://www.pascalmichaillat.org/t1.html.
 
 ## Course overview
 
-The course covers research topics related to unemployment. It reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
+The course covers research topics related to unemployment. This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
+
+The course reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
 
 + Why do we care about unemployment?
 + What causes unemployment? 
