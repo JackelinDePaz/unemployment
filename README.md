@@ -36,12 +36,16 @@ This is a flipped course.
 The repository contains all the material for the course:
 
 + `syllabus.md` - syllabus for the course
-+ `notes` folder - 7 sets of lectures notes, narrated in the [lecture videos](https://www.pascalmichaillat.org/t1.html)
-+ `readings` folder - articles and book chapters assigned as reading
++ `notes` folder - 7 sets of lectures notes narrated in the [lecture videos](https://www.pascalmichaillat.org/t1.html)
++ `readings` folder - articles and book chapters assigned as [readings](https://www.pascalmichaillat.org/t1.html)
 + `quizzes` folder - 9 one-hour quizzes and their solutions
 + `homework` folder - 3 problem sets and their solutions
 + `exam` folder - a three-hour exam and its solutions
 + `figures` folder - figures used in the solutions to the quizzes and problem sets
+
+## Lecture playlist
+
+All the lecture videos are also available as a [playlist on YouTube](https://www.youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf). The playlist might make it easier to watch the lectures and follow the course.
 
 ## License
 
