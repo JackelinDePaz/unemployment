@@ -8,7 +8,7 @@ The course material was developed by [Pascal Michaillat](https://pascalmichailla
 
 ## Course webpage
 
-The course is hosted at https://www.pascalmichaillat.org/t1.html.
+The course is hosted at https://pascalmichaillat.org/c1/.
 
 ## Course overview
 
