@@ -1,10 +1,10 @@
-# Unemployment: Models and Policies
+# Unemployment
 
 This repository contains material for a half-semester graduate course on unemployment. 
 
 ## Instructor
 
-The course material was developed by [Pascal Michaillat](https://www.pascalmichaillat.org/) for ECON2080 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets and exam.
+The course material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON2080 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets and exam.
 
 ## Course webpage
 
@@ -26,7 +26,7 @@ The course reviews basic facts about unemployment, presents models used to descr
 
 This is a flipped course. 
 
-+ At home, students watch lecture videos and go over readings. The lecture videos and readings are permanently available at https://www.pascalmichaillat.org/t1.html.
++ At home, students watch lecture videos and go over readings. The lecture videos and readings are permanently available at https://pascalmichaillat.org/c1/.
 + In class, we discuss the material from the lecture videos and readings and put it to practice through quizzes. Each quiz is composed of several multiple-choice questions.
 + At home, students must also complete 3 problem sets.
 + The course concludes with a 3-hour in-class exam.
@@ -36,8 +36,8 @@ This is a flipped course.
 The repository contains all the material for the course:
 
 + `syllabus.md` - syllabus for the course
-+ `notes` folder - 7 sets of lectures notes narrated in the [lecture videos](https://www.pascalmichaillat.org/t1.html)
-+ `readings` folder - articles and book chapters assigned as [readings](https://www.pascalmichaillat.org/t1.html)
++ `notes` folder - 7 sets of lectures notes narrated in the [lecture videos](https://pascalmichaillat.org/c1/)
++ `readings` folder - articles and book chapters assigned as [readings](https://pascalmichaillat.org/c1/)
 + `quizzes` folder - 9 one-hour quizzes and their solutions
 + `homework` folder - 3 problem sets and their solutions
 + `exam` folder - a three-hour exam and its solutions
