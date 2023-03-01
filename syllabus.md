@@ -1,11 +1,4 @@
-ECON 2080, part 1  
-Spring 2022  
-Pascal Michaillat  
-Brown University
-
-# Unemployment: Models and Policies
-
-The first part of ECON2080 runs from Wednesday 26 January to Wednesday 9 March. 
+# Unemployment (ECON 2080, part 1) – Spring 2022
 
 ### Course description
 
@@ -21,7 +14,7 @@ This part of the course covers research topics related to unemployment. We will 
 
 + Instructor: Pascal Michaillat
   * Associate professor, department of Economics, Brown University
-  * Website: https://www.pascalmichaillat.org/
+  * Website: https://pascalmichaillat.org/
   * Office: room 201, 70 Waterman Street
   * Email: pascalmichaillat@brown.edu
 + TA: Finn Schuele
@@ -30,6 +23,7 @@ This part of the course covers research topics related to unemployment. We will 
 
 ### Teaching times
 
++ Dates: Wednesday 26 January–Wednesday 9 March
 + Class 1: Monday, 10:30am–11:50am, Robinson Hall 301
 + Pascal's office hours: Tuesday, 12pm-2pm, at https://brown.zoom.us/my/pascalmichaillat
 + Class 2: Wednesday, 10:30am–11:50am, Robinson Hall 301
@@ -38,7 +32,7 @@ This part of the course covers research topics related to unemployment. We will 
 
 ### Lectures
 
-This is a flipped course. You will watch lectures at home, and we will discuss the material in class and put it to practice. All the lecture videos are available at https://www.pascalmichaillat.org/t1.html. You should watch the lecture videos according to the following schedule:
+This is a flipped course. You will watch lectures at home, and we will discuss the material in class and put it to practice. The lecture videos are available at https://pascalmichaillat.org/c1/. You should watch the lecture videos according to the following schedule:
 
 1. Before Monday 31 January: lecture videos 1–11
 2. Before Wednesday 2 February: lecture videos 12–24
@@ -53,7 +47,7 @@ This is a flipped course. You will watch lectures at home, and we will discuss t
 
 ### Readings
 
-Research articles and books will be assigned as readings before each lecture. These readings cover important background material, on which the lectures are based. All the readings are available at https://www.pascalmichaillat.org/t1.html. You should go over the readings according to the following schedule:
+Research articles and books will be assigned as readings before each lecture. These readings cover important background material, on which the lectures are based. The readings are available at https://pascalmichaillat.org/c1/. You should go over the readings according to the following schedule:
   
 1. Before Monday 31 January: readings 1–3
 2. Before Wednesday 2 February: reading 4
@@ -81,14 +75,13 @@ You will have to complete 3 problem sets. You can work on the problem sets in a 
 + Problem set 2: released Wednesday 16 February; due Wednesday 23 February
 + Problem set 3: released Wednesday 23 February; due Wednesday 2 March
 
-
 ### Sections
 
 Sections will cover the following material:
 
-+ Wednesday 26 January: review of [differential equations](https://www.pascalmichaillat.org/t3.html)
-+ Wednesday 2 February: review of [optimal control](https://www.pascalmichaillat.org/t3.html)
-+ Wednesday 9 February: review of [elasticities](https://www.pascalmichaillat.org/v50.html)
++ Wednesday 26 January: review of [differential equations](https://pascalmichaillat.org/c3/)
++ Wednesday 2 February: review of [optimal control](https://pascalmichaillat.org/c3/)
++ Wednesday 9 February: review of [elasticities](https://youtu.be/tU0dtS9iiOk)
 + Wednesday 16 February: solution of problem set 1
 + Wednesday 23 February: solution of problem set 2
 + Wednesday 2 March: solution of problem set 3
@@ -118,7 +111,6 @@ The other part of the course will also be graded out of 50 points. The grade for
 + Between 60/100 and 80/100: B
 + Between 40/100 and 60/100: C
 + Below 40/100: NC
-
 
 ### Communication
 

@@ -1,10 +1,6 @@
-# Unemployment
+# Unemployment (ECON 2080) – Spring 2022
 
-This repository contains material for a half-semester graduate course on unemployment. 
-
-## Instructor
-
-The course material was developed by [Pascal Michaillat](https://pascalmichaillat.org/) for ECON2080 at [Brown University](https://www.brown.edu). Finn Schuele helped develop the solutions to the problem sets and exam.
+This repository is a portal for Unemployment (ECON 2080) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
@@ -12,9 +8,7 @@ The course is hosted at https://pascalmichaillat.org/c1/.
 
 ## Course overview
 
-The course covers research topics related to unemployment. This course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models.
-
-The course reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
+The course covers research topics related to unemployment. The course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
 
 + Why do we care about unemployment?
 + What causes unemployment? 
@@ -22,31 +16,15 @@ The course reviews basic facts about unemployment, presents models used to descr
 + What is the socially optimal level of unemployment? 
 + How should policies respond to unemployment spikes during recessions?
 
-## Course organization
+## Repository content
 
-This is a flipped course. 
-
-+ At home, students watch lecture videos and go over readings. The lecture videos and readings are permanently available at https://pascalmichaillat.org/c1/.
-+ In class, we discuss the material from the lecture videos and readings and put it to practice through quizzes. Each quiz is composed of several multiple-choice questions.
-+ At home, students must also complete 3 problem sets.
-+ The course concludes with a 3-hour in-class exam.
-
-## Course material
-
-The repository contains all the material for the course:
-
-+ `syllabus.md` - syllabus for the course
-+ `notes` folder - 7 sets of lectures notes narrated in the [lecture videos](https://pascalmichaillat.org/c1/)
-+ `readings` folder - articles and book chapters assigned as [readings](https://pascalmichaillat.org/c1/)
-+ `quizzes` folder - 9 one-hour quizzes and their solutions
-+ `homework` folder - 3 problem sets and their solutions
-+ `exam` folder - a three-hour exam and its solutions
-+ `figures` folder - figures used in the solutions to the quizzes and problem sets
++ [Course syllabus for Spring 2022](https://github.com/pmichaillat/unemployment/blob/main/syllabus.md)
++ [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
 
 ## Lecture playlist
 
-All the lecture videos are also available as a [playlist on YouTube](https://www.youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf). The playlist might make it easier to watch the lectures and follow the course.
+The course's lecture videos are also available as a [playlist on YouTube](https://www.youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf). The playlist might make it easier to watch the lectures and follow the course.
 
 ## License
 
-The content of this repository is licensed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+The content of this repository was created by Pascal Michaillat and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
