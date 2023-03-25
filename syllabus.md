@@ -1,4 +1,4 @@
-# Unemployment (ECON 2080, part 1) – Spring 2022
+# Unemployment (ECON 2080): Spring 2022 Syllabus
 
 ### Course description
 
