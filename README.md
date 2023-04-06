@@ -1,6 +1,6 @@
-# Unemployment (ECON 2080): Spring 2022 Portal
+# Unemployment (ECON 2080): Course Portal
 
-This repository is the student portal for the Spring 2022 instance of Unemployment (ECON 2080) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the course portal for the Spring 2022 instance of Unemployment (ECON 2080) at [Brown University](https://www.brown.edu). The course is taught by [Pascal Michaillat](https://pascalmichaillat.org/). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
@@ -16,7 +16,7 @@ The course covers research topics related to unemployment. The course is centere
 + What is the socially optimal level of unemployment? 
 + How should policies respond to unemployment spikes during recessions?
 
-## Repository content
+## Portal content
 
 + [Spring 2022 syllabus](https://github.com/pmichaillat/unemployment/blob/main/syllabus.md)
 + [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
