@@ -1,29 +1,16 @@
 # Unemployment: Portal
 
-This repository is the portal for the course "Unemployment" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [Brown University](https://www.brown.edu). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course "Unemployment" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu) in Spring 2024.  The course ID is ECON 182. The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
 The course material is hosted at https://pascalmichaillat.org/c1/.
 
-## Course overview
-
-The course covers research topics related to unemployment. The course is centered around formal modeling, but it also presents some of the evidence supporting the assumptions introduced in the models. The course reviews basic facts about unemployment, presents models used to describe unemployment, and discusses policies used to tackle unemployment. It addresses the following questions: 
-
-+ Why do we care about unemployment?
-+ What causes unemployment? 
-+ Why does unemployment vary across countries and over time? 
-+ What is the socially optimal level of unemployment? 
-+ How should policies respond to unemployment spikes during recessions?
-
 ## Portal content
 
-+ [Spring 2022 syllabus](https://github.com/pmichaillat/unemployment/blob/main/syllabus.md)
-+ [Discussion forum](https://github.com/pmichaillat/unemployment/discussions)
-
-## Lecture playlist
-
-The course's lecture videos are also available as a [playlist on YouTube](https://www.youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf). The playlist might make it easier to watch the lectures and follow the course.
++ Syllabus for Spring 2024
++ [Book chapters](https://github.com/pmichaillat/unemployment/tree/main/chapters) – The folder contains book chapters assigned as reading that may be hard to find otherwise.
++ [Discussion forum](https://github.com/pmichaillat/unemployment/discussions) – This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
 
 ## License
 
