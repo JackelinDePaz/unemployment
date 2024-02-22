@@ -1,6 +1,6 @@
 # Unemployment: Portal
 
-This repository is the portal for the course "Unemployment" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu) in Spring 2024.  The course ID is ECON 182. The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course "Unemployment" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu) in Spring 2024.  The course ID is [ECON 182](https://economics.ucsc.edu/academics/courses/class-schedule.php/course/2242-52802/unemployment). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
