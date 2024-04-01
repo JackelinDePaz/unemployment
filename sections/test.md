@@ -1,0 +1,3 @@
+# ECON 182: Proposed description with less than 600 characters
+
+The course's topic is unemployment. The course presents facts about the labor market and unemployment, models to describe unemployment, and policies to tackle unemployment. The course addresses several questions: Why does unemployment exist? Why does unemployment vary over the business cycle? What is the socially optimal rate of unemployment? How should policies respond to fluctuations in unemployment? The course relies on basic mathematical methods such as unconstrained and constrained optimization, and linear and nonlinear differential equations—including phase diagrams.
