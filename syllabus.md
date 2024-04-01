@@ -179,12 +179,12 @@ It might be difficult to complete a research paper in one quarter by oneself, wh
 
 Most Tuesday class meetings will be devoted to team research. 
 
-#### Tentative due dates
+#### Due dates
 
-+ Tuesday 23 April/Thursday 25 April: class presentation of project outline
-+ Tuesday 14 May/Thursday 16 May: class presentation of early results
-+ Tuesday 4 June/Thursday 6 June: class presentation of final results
-+ Thursday 13 June at noon: final paper due
++ **Tuesday 23 April/Thursday 25 April**: class presentation of project outline
++ **Tuesday 14 May/Thursday 16 May**: class presentation of early results
++ **Tuesday 4 June/Thursday 6 June**: class presentation of final results
++ **Thursday 13 June at noon**: final paper due [by email](mailto:mbessari@ucsc.edu)
 
 #### Format of the presentations
 
