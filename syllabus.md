@@ -206,7 +206,7 @@ Early and final results should be presented in 15 minutes with 7–8 slides.
 
 Presentation slides must be written in LaTeX and compiled to a PDF.
 
-### Format of the paper
+#### Format of the paper
 
 Your research paper should be short and follow the *AER: Insights* guidelines:
 
