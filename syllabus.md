@@ -231,7 +231,9 @@ Your grade will be based on the quality of the research project and your partici
 + Presentation of final results: 10 points
 + Final paper: 30 points
 
-Letter grades will be computed on your total grade using a standard curve.
+Letter grades will be computed based on your total grade using a standard curve.
+
+You will be able to find your grades [in the Canvas gradebook](https://canvas.ucsc.edu/courses/72459/gradebook).
 
 ---
 
